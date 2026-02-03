@@ -112,6 +112,13 @@ rss:
       url: "https://finance.yahoo.com/news/rssindex"
       enabled: false                  # 禁用
 
+    - id: "user-car"
+      name: "汽车"
+      url: "https://www.caranddriver.com/rss/all.xml"
+      enabled: true
+
+
+
     # 自定义源示例
     # - id: "custom-feed"
     #   name: "自定义源"
